@@ -21,4 +21,5 @@
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
     "debug.focusWindowOnBreak": false,
+    "python.defaultInterpreterPath": "~/environments/torchdraw",
 }

@@ -23,7 +23,7 @@ classifiers = [
     "Topic :: Scientific/Engineering :: Mathematics",
 ]
 urls = {repository = "https://github.com/dcharatan/torchdraw" }
-dependencies = ["numpy>=1.20.0", "jaxtyping>=0.2.28", "torch>=2.0.0", "beartype>=0.17.2", "einops"]
+dependencies = ["numpy>=1.20.0", "jaxtyping>=0.2.28", "torch>=2.0.0", "beartype>=0.17.2", "einops>=0.8.0"]
 
 [build-system]
 requires = ["hatchling"]
